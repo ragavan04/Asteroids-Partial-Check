@@ -1,17 +1,3 @@
-/*
-
- EXTRA FEATURES:
- - 
- 
- TODO:
- - make shop items and impletment them in the game
- - perfect spawing NOTE: what exactly does it do????
- - arraylist laser
- 
- */
-
-
-
 int screen;
 int arraySize;
 float[] astX, astY, sx, sy;
